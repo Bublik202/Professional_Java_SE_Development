@@ -32,9 +32,9 @@
 ## [I/O Streams and NIO.2 API](https://github.com/Bublik202/Professional_Java_SE_Development/tree/master/I_O%20Streams%20and%20the%20NIO.2%20API/) in Java programs
 1. [File Tree](https://github.com/Bublik202/Professional_Java_SE_Development/tree/master/I_O%20Streams%20and%20the%20NIO.2%20API/file-tree)
 ## Java [Concurrency Essentials](https://github.com/Bublik202/Professional_Java_SE_Development/tree/master/Java%20Concurrency%20Essentials)
-1. [Thread Factoring](https://github.com/Bublik202/Professional_Java_SE_Development/tree/master/Java%20Concurrency%20Essentials/thread-factoring)
-2. [Concurrent Tic-Tac-Toe](https://github.com/Bublik202/Professional_Java_SE_Development/tree/master/Java%20Concurrency%20Essentials/concurrent-tic-tac-toe)
-3. [Wallet](https://github.com/Bublik202/Professional_Java_SE_Development/tree/master/Java%20Concurrency%20Essentials/wallet)
+1. [Thread Factoring](https://github.com/Bublik202/Professional_Java_SE_Development/tree/master/Concurrency%20Essentials/thread-factoring)
+2. [Concurrent Tic-Tac-Toe](https://github.com/Bublik202/Professional_Java_SE_Development/tree/master/Concurrency%20Essentials/concurrent-tic-tac-toe)
+3. [Wallet](https://github.com/Bublik202/Professional_Java_SE_Development/tree/master/Concurrency%20Essentials/wallet)
 ## JVM Memory Management
 1. Stack-Heap Diagram
 2. Load Test (Optional)
